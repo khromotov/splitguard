@@ -1,0 +1,5 @@
+wg_config_path = "wg0.conf"
+tun2socks_path = "C:\\Tools\\tun2socks.exe"
+socks5_port = 1080
+check_interval = 3
+app_list = "apps.txt"
